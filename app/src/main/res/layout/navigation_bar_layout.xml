@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         app:menu="@menu/menu_bottom_navigation"
-        app:itemBackground="@color/design_default_color_secondary_variant"
+        app:itemBackground="@drawable/bottom_nav_item_bg"
         app:itemTextColor="@android:color/holo_orange_dark"
         app:itemIconTint="@android:color/holo_orange_dark" />
 </RelativeLayout>
